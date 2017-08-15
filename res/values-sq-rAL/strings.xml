@@ -19,6 +19,7 @@
   <string name="menu_delete_all">Fshi shkarkimet</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_cancel">Anullo</string>
+  <string name="dialog_download">Shkarko</string>
   <string name="dialog_update">Përditëso</string>
   <string name="dialog_close">Mbyll</string>
   <!-- Settings strings -->
@@ -61,8 +62,9 @@
   <string name="delete_updates_failure_message">Pati një problem gjatë fshirjes së skekarit të përditësimit</string>
   <string name="delete_updates_noFolder_message">Dosja e përditësimit nuk u gjet</string>
   <string name="delete_updates_success_message">Të gjitha përditësimet u fshinë</string>
+  <!-- Info about blocked updates -->
   <!-- Header -->
-  <string name="header_os">LineageOS\n%1$s</string>
+  <string name="header_os">AODP\n%1$s</string>
   <string name="header_summary">%1$s\n%2$s • Android %3$s\n%4$s</string>
   <string name="sysinfo_last_check">Kontrolli i fundit</string>
   <!-- Build item -->
@@ -72,4 +74,6 @@
   <string name="type_completing">• Duke përfunduar</string>
   <string name="summary">%1$s\nAODP %2$s • Android %3$s</string>
   <string name="install_button">Instalo</string>
+  <!-- A/B OTA -->
+  <string name="apply_ab_update_dialog_title">Apliko përditësimin</string>
 </resources>

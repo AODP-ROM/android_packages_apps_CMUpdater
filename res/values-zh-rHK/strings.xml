@@ -18,6 +18,7 @@
   <string name="menu_delete_all">刪除下載項目</string>
   <string name="dialog_ok">確定</string>
   <string name="dialog_cancel">取消</string>
+  <string name="dialog_download">下載</string>
   <string name="dialog_update">更新</string>
   <string name="dialog_close">關閉</string>
   <!-- Settings strings -->
@@ -60,6 +61,9 @@
   <string name="delete_updates_failure_message">刪除更新檔案時出現錯誤</string>
   <string name="delete_updates_noFolder_message">找不到更新資料夾</string>
   <string name="delete_updates_success_message">已刪除所有已下載的更新</string>
+  <!-- Info about blocked updates -->
   <!-- Header -->
   <!-- Build item -->
+  <!-- A/B OTA -->
+  <string name="apply_ab_update_dialog_title">套用更新</string>
 </resources>

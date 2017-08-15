@@ -18,6 +18,7 @@
   <string name="menu_delete_all">බාගැනීම් මකන්න</string>
   <string name="dialog_ok">හරි</string>
   <string name="dialog_cancel">අවලංගුයි</string>
+  <string name="dialog_download">බාගන්න</string>
   <string name="dialog_update">යාවත්කාල කරන්න</string>
   <string name="dialog_close">වහන්න</string>
   <!-- Settings strings -->
@@ -59,6 +60,9 @@
   <string name="delete_updates_failure_message">යාවත්කාලීන ගොනුව මකාදැමීමේදී දෝෂයක් ඇතිවුනි</string>
   <string name="delete_updates_noFolder_message">යාවත්කාලීන ෆෝල්ඩරය සොයාගත නොහැක</string>
   <string name="delete_updates_success_message">සියලු භාගතකල යාවත්කාලීනයන් මකා දැමුණි</string>
+  <!-- Info about blocked updates -->
   <!-- Header -->
   <!-- Build item -->
+  <!-- A/B OTA -->
+  <string name="apply_ab_update_dialog_title">යාවත්කාලීනය යොදන්න</string>
 </resources>

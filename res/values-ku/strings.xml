@@ -18,6 +18,7 @@
   <string name="menu_delete_all">سڕینەوەی داگیراوەکان</string>
   <string name="dialog_ok">باشە</string>
   <string name="dialog_cancel">پاشگەزبوونەوە</string>
+  <string name="dialog_download">داگرتن</string>
   <string name="dialog_update">نوێچالاکردنی</string>
   <string name="dialog_close">داخستن</string>
   <!-- Settings strings -->
@@ -59,6 +60,9 @@
   <string name="delete_updates_failure_message">هەڵەیەک ڕوویدا لەکاتی سڕینەوەی فایلی نوێکردنەوەدا</string>
   <string name="delete_updates_noFolder_message">فۆڵدەری نوێکردنەوە نەدۆزرایەوە</string>
   <string name="delete_updates_success_message">هەموو نوێکردنەوە داگیراوەکان سڕانەوە</string>
+  <!-- Info about blocked updates -->
   <!-- Header -->
   <!-- Build item -->
+  <!-- A/B OTA -->
+  <string name="apply_ab_update_dialog_title">جێبەجێکردنی نوێکردنەوە</string>
 </resources>

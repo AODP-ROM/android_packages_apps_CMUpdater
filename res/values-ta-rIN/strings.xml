@@ -18,6 +18,7 @@
   <string name="menu_delete_all">பதிவிறக்கங்களை நீக்கு</string>
   <string name="dialog_ok">சரி</string>
   <string name="dialog_cancel">ரத்துசெய்</string>
+  <string name="dialog_download">இறக்கு</string>
   <string name="dialog_update">புதுப்பி</string>
   <string name="dialog_close">மூடு</string>
   <!-- Settings strings -->
@@ -60,6 +61,9 @@
   <string name="delete_updates_failure_message">புதுப்பித்தல் கோப்பை நீக்குவதில் ஒரு பிழை ஏற்பட்டது</string>
   <string name="delete_updates_noFolder_message">புதுப்பித்தல் கோப்புறை கிடைக்கவில்லை</string>
   <string name="delete_updates_success_message">அனைத்து பதிவிறக்கப்பட்ட புதுப்பித்தல்களும் நீக்கப்பட்டன.</string>
+  <!-- Info about blocked updates -->
   <!-- Header -->
   <!-- Build item -->
+  <!-- A/B OTA -->
+  <string name="apply_ab_update_dialog_title">புதுப்பித்தலை பயன்படுத்து</string>
 </resources>

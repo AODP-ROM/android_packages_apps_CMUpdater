@@ -18,6 +18,7 @@
   <string name="menu_delete_all">Allalaetud failide kustutamine</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_cancel">Tühista</string>
+  <string name="dialog_download">Lae alla</string>
   <string name="dialog_update">Uuenda</string>
   <string name="dialog_close">Sulge</string>
   <!-- Settings strings -->
@@ -60,6 +61,9 @@
   <string name="delete_updates_failure_message">Viga uuenduse faili kustutamisel</string>
   <string name="delete_updates_noFolder_message">Uuenduste kausta ei leitud</string>
   <string name="delete_updates_success_message">Kõik allalaetud uuendused on kustutatud</string>
+  <!-- Info about blocked updates -->
   <!-- Header -->
   <!-- Build item -->
+  <!-- A/B OTA -->
+  <string name="apply_ab_update_dialog_title">Rakenda uuendused</string>
 </resources>
